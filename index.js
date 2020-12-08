@@ -12,8 +12,7 @@ const postRoute = require('./routes/posts');
 dotenv.config();
 
 //connect to DB
-mongoose.connect(process.env.DB_CONNECT, 
-{ useUnifiedTopology: true }, () => console.log('connected to DB!'));
+mongoose.connect(process.env.DB_CONNECT,{ useUnifiedTopology: true }, () => console.log('connected to DB!'));
 
 //Middlewares
 app.use(express.json());
