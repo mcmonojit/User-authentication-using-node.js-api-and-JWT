@@ -28,16 +28,14 @@ A user authentication system which can be used in any application. Mongodb is us
 ## Download postman: https://www.postman.com/
 Postman is used to run the api.
 
-From the directory where this repo is saved run :
-   
-    npm start
+From the directory where this repo is saved run `npm start`
 
 <img src="images/img1.png">
  
 A few configurations need to be made in Postman
 
 * Just above the params it should be set to POST
-* In the Headers section, the `Key` and the `Value` should be set exactly as shown in the image below
+* In the Headers section, the `KEY` and the `VALUE` should be set exactly as shown in the image below
 <img src="images/img4.png" width="770" >
 
 * During user registration address should be set as `http://localhost:3000/api/user/register`
