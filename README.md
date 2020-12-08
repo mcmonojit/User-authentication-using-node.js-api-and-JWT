@@ -6,21 +6,23 @@ A user authentication system which can be used in any application. Mongodb is us
 
 ## All the below mentioned snippets need to be executed in command prompt from the directory where this repo is cloned.
 
-    (1) Run npm install
+ (1) Run `npm install`
         
  Refer this website if you don't have npm and node.js installed in your system :- https://www.npmjs.com/get-npm
     
-    (2) Run npm install express
+ (2) Run `npm install express`
         
  Refer this website :- https://www.npmjs.com/package/express
     
-    (3) Run npm install -g nodemon
+ (3) Run `npm install -g nodemon`
         
  Refer this website :- https://www.npmjs.com/package/nodemon
     
-    (4) Run npm install jsonwebtoken
+ (4) Run `npm install jsonwebtoken`
         
  Refer this website :- https://www.npmjs.com/package/jsonwebtoken
+ 
+ (4) Run `npm install bcryptjs`
         
 
 ## Download postman: https://www.postman.com/
