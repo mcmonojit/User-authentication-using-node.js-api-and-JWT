@@ -36,7 +36,7 @@ A few configurations need to be made in Postman
 
 * Just above the params it should be set to POST
 * In the Headers section, the `Key` and the `Value` should be set exactly as shown in the image below
-<img src="images/img4.png" width="600" >
+<img src="images/img4.png" width="770" >
 
 * During user registration address should be set as `http://localhost:3000/api/user/register`
 * User data need to sent in JSON format as shown below
