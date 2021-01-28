@@ -1,5 +1,5 @@
 # User-authentication-using-node.js-api-and-JWT
-A user authentication system which can be used in any application. Mongodb is used as our database to store user credentials, Node.js REST api for user data validation and verification and to connect to our express server, bcryptjs to encrypt user passwords and jwt for providing security tokens to users who are already logged in, this token lets the user to easily login and view their data without typing password after registration.
+A user authentication system which can be used in any application. Mongodb is used as our database to store user credentials, NodeJS api for user data validation and verification and to connect to our EXPRESS server, BcryptJS to encrypt user passwords and JWT for providing security tokens to users who are already logged in, this token lets the user to easily login and view their data without typing password after registration.
 
 ## Download this repo :
 <br/>
